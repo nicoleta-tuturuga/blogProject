@@ -1,0 +1,19 @@
+#root {
+    width: 100%;
+}
+
+.post-page-container {
+    margin: 10rem 16rem;
+}
+
+.post-page-title-container {
+    margin-bottom: 5rem;
+}
+
+.post-page-img-container {
+    width: 100%;
+}
+
+.main-content {
+    margin: 5rem 0;
+}

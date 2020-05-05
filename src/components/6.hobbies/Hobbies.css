@@ -1,0 +1,125 @@
+/* <!-- Hobbies --> */
+.hobbies-page {
+    font-size: 1.7rem;
+    /* margin: 10rem 2rem; */
+}
+
+.hobbies-container{
+    /* padding: 5rem;
+    margin: 8rem; */
+}
+
+/* .display-carousel {
+    max-width: 100%;
+    max-height: 500px;
+} */
+
+.hobbies-container img {
+    width: 100%;
+}
+
+/*  Main article wrap  */
+.main-article-wrap {
+    width: 100%; 
+    margin-bottom: 50px;
+}
+
+.entry-header p {
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.meta-header p {
+    font-size: 13px;
+    font-style: italic;
+}
+
+
+/* Other articles section */
+.other-articles > p {
+    color: #008080;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 4rem;
+    font-weight: 600;
+}
+
+.article-col {
+    margin-bottom: 50px;
+}
+
+.more-btn {
+    margin-top: 50px;
+}
+
+/* ------ Second column ------- */
+/* Profile image */
+.col-side-post {
+    width: 100%;
+}
+
+.col-lg-2 {
+    margin: 0;
+}
+
+.side-article-wrap > img {
+    margin: 100px 0 50px 0;
+    border-radius: 50%;
+}
+
+.side-article-wrap > h4 {
+    margin-bottom: 30px;
+}
+
+/* Social network icons */
+.widget-wrap-social-networks {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.title-header {
+    color: #008080;
+    font-size: 20px;
+}
+
+.social-networks {
+    list-style-type: none;
+}
+
+.social-networks a {
+    color: #008080;
+}
+
+.social-networks a:hover {
+    color: #999;
+}
+
+/* Other travels and cooking sections */
+.other-photos-container  img{
+    width: 100%;
+}
+
+.other-photos-container {
+    margin-bottom: 50px;
+}
+
+.other-photos-container a {
+    margin: 0 7px 7px 0;
+}
+
+/* .travel-gallery {
+    margin-bottom: 20rem;
+} */
+
+@media only screen and (min-width: 768px) {
+    .hobbies-page {
+        /* margin: 15rem 12rem; */
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .hobbies-page {
+        /* margin: 15rem 13rem; */
+    }
+}

@@ -1,0 +1,46 @@
+.col-main-post {
+    width: 100%;
+}
+
+.card-container {
+ width: 100%;
+ margin: 5rem;
+}
+
+.card-post-img img {
+    width: 100%;
+    /* transform: scale(0.5); */
+}
+
+.card-post-description {
+    box-sizing: border-box;
+    font-size: 1.7rem;
+    padding-right: 8rem;
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-post-description h1 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.card-post-description span {
+    font-style: italic;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+.card-post-description p {
+    margin: 3rem 0;
+}
+
+.card-description-likes-section {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    border-top: 1px solid rgb(209, 199, 199);
+}

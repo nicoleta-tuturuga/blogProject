@@ -1,0 +1,83 @@
+.log-container {
+    margin: 5rem 20rem;
+}
+.signin-form .signup-form {
+
+}
+
+.login-container{
+
+}
+
+.loginForm{
+    background-color: rgb(238, 236, 255);
+    min-height: 50rem;
+}
+
+.sign-title p{
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.sign-title h3 {
+    font-size: 2rem;
+}
+
+.signButton{
+    background-color: rgb(73, 71, 71);
+    color: white;
+    border-radius: 10%;
+}
+
+.forgot-password{
+    color: rgb(107, 107, 107);
+    text-decoration-line: underline;
+}
+
+.forgot-password:hover{
+    color: rgb(107, 107, 107);
+}
+
+.log-container label{
+    color: rgb(107, 107, 107);
+    margin-bottom: 0; 
+    font-size: 2rem; 
+}
+
+.log-container input {
+    width: 100%;
+    height: 3rem;
+}
+
+.signup-form{
+
+}
+
+.gender-radio-list{
+    list-style-type: none;
+}
+
+.checkbox-marketing-field{
+    list-style-type: none;
+}
+
+.marketing-newsletter{
+    appearance: checkbox;
+}
+
+.signup-terms{
+}
+
+.signup-button{
+    height: 1.5rem;
+    width: 4rem;
+}
+
+.terms-of-service{
+
+    font-size:0.7rem;
+}
+
+.terms{
+    margin-left: 0.2rem;
+}
